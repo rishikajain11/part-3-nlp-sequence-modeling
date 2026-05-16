@@ -1,0 +1,39 @@
+Text: Please tell me how to update my account details.
+True label: neutral
+Predicted label: neutral
+
+Text: The refund process was fast and convenient. I appreciate the quick response.
+True label: positive
+Predicted label: positive
+
+Text: I am satisfied with the plan and would recommend it to others. My ticket number is 67350.
+True label: positive
+Predicted label: positive
+
+Text: The app crashes whenever I try to use profile update.
+True label: negative
+Predicted label: negative
+
+Text: Please provide the steps to activate notifications. My ticket number is 20303.
+True label: neutral
+Predicted label: neutral
+
+Text: The delivery was smooth and the product quality is excellent.
+True label: positive
+Predicted label: positive
+
+Text: The refund process was fast and convenient. My ticket number is 41814.
+True label: positive
+Predicted label: positive
+
+Text: The installation was completed on time and everything works perfectly.
+True label: positive
+Predicted label: positive
+
+Text: Billing is incorrect and I was charged twice this month.
+True label: negative
+Predicted label: negative
+
+Text: I want to cancel because the service quality is poor and unreliable.
+True label: negative
+Predicted label: negative
